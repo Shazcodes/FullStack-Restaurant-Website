@@ -49,7 +49,7 @@ The project is organized as follows:
 
 ## Usage
 
-This project is intended for private use and is not publicly accessible on GitHub. Please ensure that access is limited to authorized team members only.
+This repository is private and intended solely for personal use in the context of resume projects and job applications.
 
 ## License
 
